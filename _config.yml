@@ -5,9 +5,9 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
 
 # Site settings
-title: "Jane Smith"
-subtitle: "PhD Student in Glaciology"
-url: "https://janesmith.github.io"
+title: "Danielle Schreve"
+subtitle: "Heather Corrie Chair in Environmental Change"
+url: "https://dcschreve.github.io"
 
 # Masthead image
 logo: "/assets/images/avatar.png"
@@ -17,21 +17,18 @@ favicon: "/assets/images/favicon.png"
 
 # Author sidebar info
 author:
-  name: Jane Smith
-  bio: "PhD Student in Glaciology at the University of Example."
+  name: Danielle Schreve
+  bio: "Palaeoecologist at the University of Bristol."
   avatar: "/assets/images/avatar.png"
-  email: jane.smith@example.com
+  email: danielle.schreve@bristol.ac.uk
   location: Bristol, UK
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "github.com/janesmith"
+      url: "github.com/dcschreve"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "linkedin.com/in/janesmith"
-    - label: "Bluesky"
-      icon: "fa-brands fa-fw fa-bluesky"
-      url: "https://janesmith.bsky.social"
+      url: "linkedin.com/in/danielleschreve"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.co.uk/citations?user=XXXXXXXXXXX"
@@ -44,7 +41,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jane.smith@example.com"
+      url: "mailto:danielle.schreve@bristol.ac.uk"
     - label: "Bluesky"
       icon: "fa-brands fa-fw fa-bluesky"
       url: "https://bsky.app/profile/janesmith.bsky.social"
