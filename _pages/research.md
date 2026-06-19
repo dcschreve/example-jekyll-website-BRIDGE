@@ -14,4 +14,5 @@ My research focuses on the fossil mammal record from the last 2.6 million years 
 ## Current projects
 
 **Gully Cave** – Investigations into a Late Pleistocene archive of faunal change.
-![Description of image](/assets/images/caveexterior.jpg)
+
+![cave](/assets/images/caveexterior.jpg)
