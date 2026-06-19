@@ -7,22 +7,10 @@ author_profile: true
 
 ## Overview
 
-My research focuses on understanding how glaciers respond to climate variability and change. Specifically, I investigate the coupling between atmospheric forcing, glacier dynamics, and meltwater discharge. This work combines field observations, numerical modeling, and satellite remote sensing to characterize glacier behavior across different spatial and temporal scales.
+I am a palaeoecologist and biogeographer, with an interdisciplinary academic background spanning physical geography, palaeontology and archaeology.
 
-## Key Research Questions
+My research focuses on the fossil mammal record from the last 2.6 million years to today (the Quaternary), combining elements of biostratigraphy and reconstruction of past environments, with investigation of palaeobiological aspects such as evolutionary change, palaeodiet and the interaction of past mammalian communities with humans. I have proposed new models for our understanding of climates and environments of the last half million years, using mammalian turnover to identify discrete climatic episodes. This was an essential step in both improving our chronological understanding beyond the reach of radiocarbon dating, and in our deepening our knowledge of biological response to climate change. 
 
-- How do glaciers respond to rapid climate changes?
-- What are the feedback mechanisms between glacier melt and regional climate?
-- How can we improve glacier parameterizations in large-scale climate models?
+## Current projects
 
-## Current Projects
-
-**Alpine Glacier Monitoring** – Using satellite imagery and UAV surveys to track glacier retreat in high mountain regions and assess impacts on water resources.
-
-**Subglacial Hydrology** – Investigating seasonal variations in meltwater discharge and subglacial drainage system evolution using field instruments and hydrodynamic models.
-
-## Research Image
-
-![Image of a glacier](../assets/images/image.jpg)
-
-*A representative study site showing glacier morphology and melt features.*
+**Gully Cave** – Investigations into a Late Pleistocene archive of faunal change.
